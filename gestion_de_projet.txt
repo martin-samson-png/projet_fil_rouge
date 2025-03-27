@@ -1,0 +1,104 @@
+DEKTOP
+
+1. Page d'acceuil : 
+      Header :
+        - Logo : En haut a droite
+        - Menu ouvrant juste en dessous 
+        - Barre de recherche en bas a droite
+        - Gestion du compte juste au dessus de la barre de recherhche (menu d'inscription/connexion)
+        - Catégorisation des articles en bas du header dans l'ordre suivant : News, Maps, Mobs, Loots, Forum
+        - Onglet ou la personne y est, est demarqué
+
+      Hero section :
+        - Bouton avec un liens direct pour telecharger le jeu 
+        - Vote en cours ou si il y en a pas, dernier favoris de l'utilisateur
+        - Articles les plus populaires
+        - Selection de gameplay 
+
+      Section Principale : 
+        - Presentation generale du jeu 
+        - Personnage animée
+        - Logo du jeu video 
+
+      Footer : 
+        - Navigation rapide (Acceuil, News, Maps, Mobs, Loots, Forum)
+        - Liens utile (A propos de nous, Contact, FAQ, Bugs)
+        - Communauté et reseau ( Instagram, twitter, Facebook, Youtube, Twitch, Discord)
+        - Mention Legales (Condition d'utilisation, Politique de confidentialité, Mode de paiement, Crédits[police, icone, images utilisés])
+
+
+
+2. Page d'inscritpion 
+        - Prenom    
+        - Nom
+        - Pseudo
+        - adresse mail (validation d'adresse mail)
+        - Mot de passe + bouton pour voir (Minimum .. caractere + chiffre + caractere special)
+        - Valider le mot de passe (identique au mot de passe)
+        - Bouton confirmé
+
+
+
+3. Page de connexion
+        - adresse email ou Pseudo
+        - Mot de passe
+        - Liens mot de passe oublié
+        - Bouton confirmé
+
+
+
+4. News 
+      Header :
+        - Logo : En haut a droite
+        - Menu ouvrant juste en dessous 
+        - Barre de recherche en bas a droite
+        - Gestion du compte juste au dessus de la barre de recherhche (menu d'inscription/connexion)
+        - Catégorisation des articles en bas du header dans l'ordre suivant : Maps, Mobs, Loot, forum
+        - Onglet ou la personne y est, est demarqué
+
+      Hero section 
+        - Grande banniere potentiellement animée avec ecrit News
+      
+      Page Principale
+        - barre de recherche pour rechercher les patch ou les maj que la personne cherche
+        - Caroussel des dernieres maj avec les derniers ajout (cliquable pour agrandir la maj)
+        - Caroussel des derniers patch note (cliquable pour agrandir le patch note)
+        
+        Footer : 
+        - Navigation rapide (Acceuil, Maps, Mobs, Loots, Forum)
+        - Liens utile (A propos de nous, Contact, FAQ, Bugs)
+        - Communauté et reseau ( Instagram, twitter, Facebook, Youtube, Twitch, Discord)
+        - Mention Legales (Condition d'utilisation, Politique de confidentialité, Mode de paiement, Crédits[police, icone, images utilisés])
+
+
+
+
+5. Maps 
+      Header :
+        - Logo : En haut a droite
+        - Menu ouvrant juste en dessous 
+        - Barre de recherche en bas a droite
+        - Gestion du compte juste au dessus de la barre de recherhche (menu d'inscription/connexion)
+        - Catégorisation des articles en bas du header dans l'ordre suivant : Maps, Mobs, Loot, forum
+        - Onglet ou la personne y est, est demarqué
+
+      Hero section
+        - Grande banniere potentiellement animée avec ecrit Maps 
+        - Explication breve de ce qu'est les maps et de comment marche la page
+
+      Page Principale
+        - Caroussel des 5 differentes maps avec les noms (obligation de la selection pour afficher les details de la maps)
+        - Description de la maps que la personne aurat choisit
+
+       Footer : 
+        - Navigation rapide (Acceuil, Maps, Mobs, Loots, Forum)
+        - Liens utile (A propos de nous, Contact, FAQ, Bugs)
+        - Communauté et reseau ( Instagram, twitter, Facebook, Youtube, Twitch, Discord)
+        - Mention Legales (Condition d'utilisation, Politique de confidentialité, Mode de paiement, Crédits[police, icone, images utilisés])
+
+        
+
+        
+
+      
+
